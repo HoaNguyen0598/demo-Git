@@ -1,4 +1,4 @@
 function Cat(){
-    return;
+    return 12;
 }
 module.exports = Cat;
